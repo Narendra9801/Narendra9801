@@ -1,5 +1,5 @@
 <img src="https://github.com/Narendra9801/Narendra9801/blob/main/nareNDRAlodh.jpg" />
-#  👋 Hi, I'm Narendra Lodh
+ 👋 Hi, I'm Narendra Lodh
 <br />
 🚀 **Full Stack Developer** | React.js | JavaScript | UI/UX  
 <br />
